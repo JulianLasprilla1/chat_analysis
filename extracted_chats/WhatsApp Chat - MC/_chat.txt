@@ -1,0 +1,757 @@
+[24/08/22, 3:42:38 p.m.] MC: ‎Los mensajes y las llamadas están cifrados de extremo a extremo. Nadie fuera de este chat, ni siquiera WhatsApp, puede leerlos ni escucharlos.
+[24/08/22, 3:42:38 p.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 Hablas con Mónica, en que te podemos ayudar?
+[24/08/22, 3:42:37 p.m.] MC: hola buena tarde
+[24/08/22, 3:43:18 p.m.] MC: Ayer hice una compra por MercadoLibre de dos router tp link AX-72, quiero saber si ya realizaron el envió?
+[24/08/22, 3:45:51 p.m.] JD Market SAS: hola buen dia, me podrias dar el numero de venta
+[24/08/22, 3:45:59 p.m.] JD Market SAS: y nombre de quien hizo la venta
+[24/08/22, 3:59:19 p.m.] MC: fue por mercadolibre
+‎[24/08/22, 3:59:35 p.m.] MC: ‎imagen omitida
+[24/08/22, 4:01:53 p.m.] JD Market SAS: Hola buen día el producto está para despacho hoy
+[24/08/22, 4:02:13 p.m.] JD Market SAS: Viene la transportadora a recogerlo y normalmente tarda su entrega de 1 a 3 días hábiles
+[24/08/22, 4:02:26 p.m.] MC: ok gracias
+[24/08/22, 4:02:37 p.m.] JD Market SAS: Con gusto
+[24/08/22, 4:03:12 p.m.] JD Market SAS: Recuerda que si deseas para próximas compras puedes escribirnos por este medio y te podemos dar mejores precios a los que tenemos por MercadoLibre
+[24/08/22, 4:03:12 p.m.] MC: necesito montar una red de clientes en un hotel con muchas habitaciones, pero el hotel no es vertical, si no horizontal
+[24/08/22, 4:03:38 p.m.] MC: que equipos me puede recomendar para que me puedan atravesar todos los muros
+[24/08/22, 4:03:55 p.m.] MC: Si, eso veo
+[24/08/22, 4:03:57 p.m.] JD Market SAS: lo mejor que podrias utilizar son Decos
+[24/08/22, 4:04:06 p.m.] MC: La próxima compra la hago directa con ustedes
+[24/08/22, 4:04:10 p.m.] MC: Cuales
+[24/08/22, 4:04:11 p.m.] MC: ?
+[24/08/22, 4:04:30 p.m.] MC: Me gustaría que sean Tp-link
+[24/08/22, 4:04:32 p.m.] JD Market SAS: ya que tiene una buena cobertura y nunca se desconectan cuando cambia de uno a otro
+[24/08/22, 4:04:50 p.m.] JD Market SAS: ya te envio enlace de que te digo
+[24/08/22, 4:04:57 p.m.] MC: Vale
+[24/08/22, 4:05:28 p.m.] JD Market SAS: https://www.jd-market.com/MCO-539002722-sistema-wifi-en-malla-para-la-casa-tp-link-deco-e4-3-pack-_JM#position=2&search_layout=stack&type=item&tracking_id=b8293149-4f0c-4b58-99c7-1c97bcc698bb
+[24/08/22, 4:06:12 p.m.] JD Market SAS: Cada deco puede tener una cobertura aproximada de 100 metros al aire libre
+[24/08/22, 4:06:27 p.m.] MC: Leí en las especificaciones técnicas del producto y solo se puede conectar un maximo de 6
+[24/08/22, 4:06:35 p.m.] MC: Y el hotel es grande
+[24/08/22, 4:06:43 p.m.] MC: Tiene 27 habitaciónes
+[24/08/22, 4:07:04 p.m.] MC: Y son aptos para intemperie?
+[24/08/22, 4:07:38 p.m.] JD Market SAS: no son aptos a la interperie
+[24/08/22, 4:07:51 p.m.] JD Market SAS: ya te verifico bien esta informacion
+‎[24/08/22, 4:10:18 p.m.] MC: ‎imagen omitida
+[24/08/22, 4:10:26 p.m.] MC: Qué tal puede funcionar este?
+[24/08/22, 4:13:28 p.m.] JD Market SAS: este te da un alcance de 100 metros al aire libre pero solo maneja la Banda de 2.4Ghz
+[24/08/22, 4:13:47 p.m.] JD Market SAS: asi como lo buscas a la interperie no manejamos
+[24/08/22, 4:14:23 p.m.] MC: Los podría poner dentro de hab o garage pero este modelo me parece un poco inseguro, se lo pueden robar los clientes
+[24/08/22, 4:17:03 p.m.] JD Market SAS: Si ese producto tendrías que tenerlos en una parte alta y que no sea tan visible
+[24/08/22, 4:17:27 p.m.] MC: Vale voy a analizarlo y les aviso
+[24/08/22, 4:17:47 p.m.] JD Market SAS: Dale cualquier cosa me avisas
+[24/08/22, 4:18:09 p.m.] MC: Muchas gracias
+[24/08/22, 4:18:41 p.m.] JD Market SAS: Igual los Deco los puedes configurar a la misma red de los router que compraste ya que tienen tecnología mesa
+[24/08/22, 4:18:45 p.m.] JD Market SAS: Mesh
+[24/08/22, 4:19:05 p.m.] MC: En ese router puedo configurar dos redes diferentes?
+[24/08/22, 4:19:15 p.m.] MC: Una para administración y otra para clientes?
+[24/08/22, 4:21:53 p.m.] JD Market SAS: Si puedes
+[24/08/22, 4:22:18 p.m.] MC: Vale apenas llegue lo configuro y les cuento
+[24/08/22, 4:22:21 p.m.] JD Market SAS: Una red  para invitados donde puedes limitar las megas de velocidad
+[24/08/22, 4:22:28 p.m.] JD Market SAS: Dale quedamos atentos
+[24/08/22, 4:25:22 p.m.] MC: Si, eso es lo que necesitamos
+[25/08/22, 3:43:36 p.m.] MC: Hola buena tarde
+[25/08/22, 3:44:06 p.m.] MC: Me puede confirmar el envío de la compra por favor
+[25/08/22, 3:45:21 p.m.] JD Market SAS: Hola ya verifico
+[25/08/22, 3:46:59 p.m.] JD Market SAS: El producto tenía que ser recogido por la transportadora de MercadoLibre pero ayer no pasaron por problemas logísticos en la zona donde nos encontramos entonces ellos pasan hoy a recoger tu producto ofrecemos disculpas por cuestiones externas a nuestro funcionamiento
+[26/08/22, 8:27:55 a.m.] MC: Hola buen día
+[26/08/22, 8:28:08 a.m.] MC: Me confirma si ya se hizo el envío de los equipos?
+[26/08/22, 9:17:26 a.m.] JD Market SAS: Hola buen día ya verifico con MercadoLibre y nuestra área de despachos
+[1/09/22, 4:34:46 p.m.] MC: Hola buenas tardes
+[1/09/22, 4:35:02 p.m.] MC: Me puede vender dos Camaras tapo C200 con memoria de 128
+[1/09/22, 4:35:08 p.m.] MC: Para envío en Bogotá
+[1/09/22, 4:35:19 p.m.] MC: Me indica cuánto cuestan, y donde puedo consignar
+[1/09/22, 4:37:00 p.m.] JD Market SAS: ‎Eliminaste este mensaje.
+[1/09/22, 4:37:54 p.m.] JD Market SAS: Si tenemos disponible las cámaras tienen un valor de 145.900 c/u
+[1/09/22, 4:38:25 p.m.] MC: Con memoria?
+[1/09/22, 4:38:35 p.m.] JD Market SAS: Y la cámara con memoria un valor de 215.900 c/u
+[1/09/22, 4:38:45 p.m.] JD Market SAS: https://www.jd-market.com/MCO-873183980-camara-ip-wifi-robotica-tp-link-tapo-c200-micro-sd-128gb-_JM#position=7&search_layout=stack&type=item&tracking_id=46e6992f-909d-41d2-a531-ec48d137249e
+[1/09/22, 4:39:15 p.m.] JD Market SAS: El valor de envío es de 9.000 a ciudades principales
+‎[1/09/22, 4:39:32 p.m.] JD Market SAS: ‎imagen omitida
+[1/09/22, 4:42:38 p.m.] MC: Los datos de facturación están en el rut que envío a continuación . 2MJ SAS
+[1/09/22, 4:42:58 p.m.] JD Market SAS: Para generar factura confirmar los siguientes datos:
+Nombre completo
+Cédula/Nit
+Dirección (No oficina principal de transportadora) 
+Ciudad
+Celular
+Correo electrónico
+Recuerda que la factura te llega por email.
+‎[1/09/22, 4:43:45 p.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[1/09/22, 4:45:01 p.m.] MC: Carrera 50 # 103B-63, apto 503, edificio Pasadena 103, barrio Pasadena
+[1/09/22, 4:45:10 p.m.] MC: Datos de envío
+[1/09/22, 4:45:43 p.m.] MC: Ciudad de Bogotá, a nombre de: Miguel Ángel clavijo rojas, cc 1122125591, cel 3134949598
+[1/09/22, 4:45:50 p.m.] MC: Ya le confirmo el pago
+[1/09/22, 4:46:05 p.m.] JD Market SAS: Total a consignar $440.800
+[1/09/22, 4:46:13 p.m.] MC: Listo
+‎[2/09/22, 11:14:51 a.m.] MC: ‎imagen omitida
+[2/09/22, 11:14:56 a.m.] MC: Listo el pago
+[2/09/22, 11:18:58 a.m.] JD Market SAS: Buen día, una vez verificado el pago se programa el despacho para mañana ya que hoy no contamos con mensajero
+[2/09/22, 11:19:21 a.m.] MC: Vale
+[19/09/22, 10:19:16 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 Hablas con Mónica, en que te podemos ayudar?
+[19/09/22, 10:19:12 a.m.] MC: Hola buena tarde
+[19/09/22, 10:19:26 a.m.] MC: Tiene disponible esta cámara
+[19/09/22, 10:19:51 a.m.] MC: Necesito dos unidades
+[19/09/22, 10:19:56 a.m.] MC: Para envío a acacias meta
+[19/09/22, 10:20:16 a.m.] MC: https://www.jd-market.com/MCO-873183980-camara-ip-wifi-robotica-tp-link-tapo-c200-micro-sd-128gb-_JM
+[19/09/22, 10:25:24 a.m.] JD Market SAS: Hola buen dia si tenemos disponible
+[19/09/22, 10:26:02 a.m.] JD Market SAS: 9.000 costaria el valor de envio
+[19/09/22, 10:26:31 a.m.] MC: Dos unidades por favor
+[19/09/22, 10:26:51 a.m.] JD Market SAS: Dale Total a consignar $440.800
+[19/09/22, 10:26:55 a.m.] MC: Me regala métodos de pago
+[19/09/22, 10:26:55 a.m.] JD Market SAS: Datos cuenta BANCOLOMBIA
+
+Tipo de cuenta: Corriente
+Número de cuenta: 21932083132
+Nit: 900373012
+Titular: JD MARKET
+
+Recomendamos hacer la transferencia o consignación por un Corresponsal bancario o la App de Bancolombia. Por favor, no hacer la consignación EN UNA OFICINA DEL BANCO para evitar el cobro de comisión nacional. Al realizar una transferencia  desde otro banco puede tarda hasta 1 dia habil que se refleje el pago. Hasta que no se refleje el dinero en nuestra cuenta no se envia producto.
+[19/09/22, 10:27:45 a.m.] MC: Vale muchas Gracias
+‎[19/09/22, 11:03:23 a.m.] MC: ‎imagen omitida
+[19/09/22, 11:03:28 a.m.] MC: Listo
+‎[19/09/22, 11:03:51 a.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[19/09/22, 11:04:00 a.m.] MC: Datos de factura
+[19/09/22, 11:04:18 a.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado, Acacias meta
+[19/09/22, 11:04:18 a.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+[19/09/22, 11:04:24 a.m.] MC: Datos de envío
+[19/09/22, 11:04:32 a.m.] MC: Le agradezco me envíe lo antes posible
+[19/09/22, 11:05:10 a.m.] JD Market SAS: ¡Muchas gracias por preferirnos! Esperamos poder servirte nuevamente 🤗 Te invitamos a seguirnos en nuestras redes sociales 🔵 FACEBOOK 👉🏻 https://bit.ly/3pIr4EE  🟣 INSTAGRAM 👉🏻 https://bit.ly/39yXuvI 🥳
+[19/09/22, 11:05:21 a.m.] JD Market SAS: ya te generamos factura y Guia
+[19/09/22, 11:08:32 a.m.] MC: Vale
+‎[19/09/22, 11:16:30 a.m.] JD Market SAS: ‎imagen omitida
+[19/09/22, 11:17:05 a.m.] MC: Muchas Gracias
+[19/09/22, 11:18:14 a.m.] JD Market SAS: Con gusto
+[4/10/22, 10:59:29 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 Hablas con Mónica, en que te podemos ayudar?
+[4/10/22, 10:59:21 a.m.] MC: Hola buen día
+[4/10/22, 10:59:43 a.m.] MC: Manejan sistema de alarma Hikvision, con inteligencia artifial?
+[4/10/22, 11:05:14 a.m.] JD Market SAS: Hola buen dia, no lo manejamos
+[8/10/22, 11:37:10 a.m.] MC: Hola buen día
+[8/10/22, 11:37:26 a.m.] MC: Tienes switc Tp link base 1000
+[8/10/22, 11:46:47 a.m.] MC: Y repetidor Tp link archer c20
+[8/10/22, 11:50:23 a.m.] JD Market SAS: buenos días, el switch de cuantos puertos lo necesitas?
+[8/10/22, 11:50:40 a.m.] JD Market SAS: https://www.jd-market.com/MCO-516559623-router-wifi-de-banda-dual-ac750-tp-link-archer-c20-_JM#position=1&search_layout=stack&type=item&tracking_id=26f4db03-de06-4c0f-afd6-d673a4b32704
+[8/10/22, 11:51:47 a.m.] MC: De 4 y de 8
+[8/10/22, 11:53:27 a.m.] JD Market SAS: te puede ofrecer los siguientes
+[8/10/22, 11:53:33 a.m.] JD Market SAS: https://www.jd-market.com/MCO-548164616-switch-escritorio-litewave-5-puertos-gigabit-tp-link-ls1005g-_JM#position=8&search_layout=stack&type=item&tracking_id=f426fdbb-9563-400f-946b-7722da2f9eed
+[8/10/22, 11:53:47 a.m.] JD Market SAS: https://www.jd-market.com/MCO-556236333-switch-escritorio-litewave-8-puertos-gigabit-tp-link-ls1008g-_JM#position=13&search_layout=stack&type=item&tracking_id=f426fdbb-9563-400f-946b-7722da2f9eed
+[8/10/22, 11:53:58 a.m.] JD Market SAS: https://www.jd-market.com/MCO-454850222-switch-de-escritorio-5-puertos-gigabit-tp-link-tl-sg105-_JM#position=19&search_layout=stack&type=item&tracking_id=f426fdbb-9563-400f-946b-7722da2f9eed
+[8/10/22, 11:54:44 a.m.] MC: Cual es la diferencia en calidad entre los dos de 5 puertos?
+[8/10/22, 12:06:04 p.m.] JD Market SAS: La calidad es la misma, en el contenido de las publicaciones están todas las características, así puedes elegir el que mas se ajuste a tu necesidad
+[8/10/22, 12:09:47 p.m.] MC: Muchas gracias
+[8/10/22, 12:09:52 p.m.] MC: Te confirmo el pedido el lunes
+[8/10/22, 12:26:14 p.m.] JD Market SAS: perfeto, quedo atenta
+[22/11/22, 10:56:52 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 Hablas con Mónica, en que te podemos ayudar?
+[22/11/22, 10:56:52 a.m.] MC: Hola buen día tienes Tp link archer x20?
+[22/11/22, 10:56:57 a.m.] MC: C20
+[22/11/22, 11:03:28 a.m.] JD Market SAS: si lo tenemos disponible
+[22/11/22, 11:03:33 a.m.] JD Market SAS: https://www.jd-market.com/MCO-516559623-router-wifi-de-banda-dual-ac750-tp-link-archer-c20-_JM#position=1&search_layout=stack&type=item&tracking_id=3bbc66ad-82a2-400f-b2a5-e46aa99db291
+[22/11/22, 11:05:06 a.m.] MC: Hay un repetidor mejor que ese?
+[22/11/22, 11:05:24 a.m.] MC: Que me repita señal wifi sin cable
+[22/11/22, 11:08:02 a.m.] JD Market SAS: te podemos ofrecer el siguiente
+[22/11/22, 11:08:13 a.m.] JD Market SAS: https://www.jd-market.com/MCO-518600650-router-wifi-dual-band-ac1200-tp-link-archer-c50-4-antenas-_JM#position=1&search_layout=stack&type=item&tracking_id=9b41313d-4b6d-4029-bdff-e429c3f3a649
+[22/11/22, 11:09:15 a.m.] MC: Necesito 8 unidades, cuánto es lo mínimo?
+[22/11/22, 11:11:12 a.m.] JD Market SAS: el precio mínimo es de $128.000 c/u pagando en efectivo o transferencia Bancolombia
+[22/11/22, 11:12:54 a.m.] MC: Y dos switch de 5 puertos base 1000
+[22/11/22, 11:20:05 a.m.] JD Market SAS: https://www.jd-market.com/MCO-548164616-switch-escritorio-litewave-5-puertos-gigabit-tp-link-ls1005g-_JM#position=21&search_layout=stack&type=item&tracking_id=a94b1667-8c03-43f9-9631-278fd6f46c77
+‎[28/11/22, 10:31:49 a.m.] MC: ‎audio omitido
+[28/11/22, 10:32:05 a.m.] MC: 8 unidades de este
+[28/11/22, 10:32:10 a.m.] MC: 2 de este
+[28/11/22, 10:33:06 a.m.] MC: 1 archer ax72
+2 splitter HDMI 1x4
+2 extender HDMI - UTP
+1 splitter HDMI 1x8
+[28/11/22, 10:42:08 a.m.] JD Market SAS: El extender tenemos de 60metros
+[28/11/22, 10:42:28 a.m.] JD Market SAS: splitter tenemos 1X4
+[28/11/22, 10:42:32 a.m.] JD Market SAS: no 1X4
+[28/11/22, 10:42:40 a.m.] JD Market SAS: si claro si señor te podemos hacer la cotización
+[28/11/22, 10:52:28 a.m.] JD Market SAS: con estos datos ?
+[28/11/22, 10:52:49 a.m.] MC: Si por favor
+[28/11/22, 10:53:00 a.m.] MC: Si
+[28/11/22, 10:53:12 a.m.] MC: Tienen de mas alcance
+[28/11/22, 10:53:55 a.m.] JD Market SAS: en el momento solo tenemos de 60 metros
+[28/11/22, 10:57:38 a.m.] MC: Vale
+[28/11/22, 10:57:55 a.m.] MC: De cual tienes?
+[28/11/22, 11:00:59 a.m.] JD Market SAS: https://www.jd-market.com/MCO-527208334-multiplicador-splitter-hdmi-1-entrada-x-4-salidas-1080p-3d-_JM#position=1&search_layout=stack&type=item&tracking_id=2e286d7f-991d-475e-93d1-53769718dcf7
+[28/11/22, 11:01:37 a.m.] MC: Si 2 und
+[28/11/22, 11:01:56 a.m.] MC: Y 1x 8?
+[28/11/22, 11:30:49 a.m.] JD Market SAS: 1x8 no tenemos
+[28/11/22, 12:21:37 p.m.] MC: Vale
+[28/11/22, 12:21:54 p.m.] MC: Me dice cuánto es todo por favor
+‎[28/11/22, 12:24:39 p.m.] JD Market SAS: COT1531.pdf ‎documento omitido
+[28/11/22, 12:31:59 p.m.] MC: Médios de pago por favor
+[28/11/22, 12:32:08 p.m.] MC: Manejan esta batería de UPS?
+‎[28/11/22, 12:32:14 p.m.] MC: ‎imagen omitida
+[28/11/22, 12:32:27 p.m.] JD Market SAS: Datos cuenta BANCOLOMBIA
+
+Tipo de cuenta: Corriente
+Número de cuenta: 21932083132
+Nit: 900373012
+Titular: JD MARKET
+
+Recomendamos hacer la transferencia o consignación por un Corresponsal bancario o la App de Bancolombia. Por favor, no hacer la consignación EN UNA OFICINA DEL BANCO para evitar el cobro de comisión nacional. Al realizar una transferencia  desde otro banco puede tarda hasta 1 dia habil que se refleje el pago. Hasta que no se refleje el dinero en nuestra cuenta no se envia producto.
+[28/11/22, 12:32:38 p.m.] JD Market SAS: no señor
+[28/11/22, 12:33:17 p.m.] MC: Vale
+[28/11/22, 12:33:42 p.m.] MC: Hoy mismo pueden hacer el envío?
+[28/11/22, 12:39:34 p.m.] JD Market SAS: si señor si pagas antes de las 2:30pm de bancolombia a bancolombia te hacemos el despacho
+[28/11/22, 12:40:23 p.m.] MC: Vale
+[28/11/22, 12:40:31 p.m.] MC: Te confirmo apenas realice el pago
+[28/11/22, 12:41:34 p.m.] JD Market SAS: Dale con gusto
+‎[28/11/22, 1:54:32 p.m.] MC: ‎imagen omitida
+[28/11/22, 1:55:06 p.m.] MC: Listo el pago
+[28/11/22, 1:55:22 p.m.] MC: Se practicó retención del 2.5
+[28/11/22, 1:56:51 p.m.] JD Market SAS: A esta direccion enviamos los prodocutos
+[28/11/22, 1:57:19 p.m.] JD Market SAS: ‎Eliminaste este mensaje.
+[28/11/22, 1:57:19 p.m.] JD Market SAS: ‎Eliminaste este mensaje.
+[28/11/22, 1:57:36 p.m.] MC: Si por favor
+[28/11/22, 1:57:46 p.m.] JD Market SAS: Dale con gusto
+‎[28/11/22, 2:02:21 p.m.] MC: ‎imagen omitida
+[28/11/22, 3:03:35 p.m.] JD Market SAS: uy no te sabria decir pero te puedes contactar directamente con tp-link si ellos tienen servicio tecnico
+[28/11/22, 3:03:45 p.m.] MC: Vale
+‎[28/11/22, 3:44:10 p.m.] JD Market SAS: ‎imagen omitida
+[28/11/22, 3:45:19 p.m.] MC: Así es
+[28/11/22, 3:45:22 p.m.] MC: Esta bien
+[29/11/22, 6:52:56 a.m.] MC: Buen día, me podrían facilitar la factura de esta compra por favor
+[29/11/22, 8:13:05 a.m.] MC: Hola
+[29/11/22, 8:48:03 a.m.] JD Market SAS: Hola buen dia, vale dame un momento la solicito al area encargada
+[29/11/22, 8:57:51 a.m.] MC: Muchas gracias
+‎[29/11/22, 9:10:16 a.m.] JD Market SAS: FVE295831.pdf • ‎1 página ‎documento omitido
+[29/11/22, 9:10:56 a.m.] MC: Muchas gracias
+[29/11/22, 9:12:34 a.m.] JD Market SAS: ‎Gracias por preferirnos. Esperamos poder servirte nuevamente.
+[29/11/22, 9:32:07 a.m.] MC: Claro que si
+[29/11/22, 5:09:39 p.m.] JD Market SAS: Hola, Nuestro horario de atención es de Lunes a Viernes de 8:00AM a 5:00PM y Sábados de 8:0AM a 2:00PM. No tenemos atención los días domingos ni festivos.
+[29/11/22, 5:09:38 p.m.] MC: ‎Se eliminó este mensaje.
+[9/12/22, 11:11:03 a.m.] MC: Hola buen día
+[9/12/22, 11:12:49 a.m.] MC: Tengo un cliente que tiene 750 mb de velocidad con fibra óptica, la casa es de dos pisos, el necesita hacer que toda la casa tenga cobertura y quiere que la velocidad que tiene no se vea afectada, que sistema de wifi le puedo vender?
+[9/12/22, 11:45:49 a.m.] JD Market SAS: le puedes ofrecer el siguiente
+[9/12/22, 11:45:56 a.m.] JD Market SAS: https://www.jd-market.com/MCO-499565886-sistema-wifi-malla-para-la-casa-tp-link-deco-m5-2-pack-_JM?searchVariation=70091052493#searchVariation=70091052493&position=12&search_layout=stack&type=item&tracking_id=8ae50a99-d214-4324-b521-5e58e6125b89
+[9/12/22, 11:46:01 a.m.] JD Market SAS: sistema en malla
+‎[9/12/22, 2:54:51 p.m.] MC: ‎audio omitido
+[9/12/22, 2:55:20 p.m.] MC: Estos no me dan mas de 80 mb de velocidad
+[9/12/22, 3:23:13 p.m.] JD Market SAS: para la velocidad necesitas un router con puertos Gigabir
+[9/12/22, 3:23:49 p.m.] JD Market SAS: los router tp-link no puede reemplazar a los del operador tienes que conectarlo como un repetidor o crear una nueva red
+‎[9/12/22, 3:24:13 p.m.] MC: ‎audio omitido
+[9/12/22, 3:24:21 p.m.] JD Market SAS: igualmente el cableado que necesites tiene que ser cat 6
+‎[9/12/22, 3:24:41 p.m.] MC: ‎audio omitido
+[9/12/22, 3:24:56 p.m.] JD Market SAS: exacto este te serviria para un internet de hasta 300mb
+‎[9/12/22, 3:25:00 p.m.] MC: ‎audio omitido
+[9/12/22, 3:25:39 p.m.] JD Market SAS: te podrias recomendar un malla de Wifi 6
+‎[9/12/22, 3:25:52 p.m.] MC: ‎audio omitido
+[9/12/22, 3:26:02 p.m.] MC: Si eso estaba pensando
+[9/12/22, 3:26:10 p.m.] JD Market SAS: https://www.jd-market.com/MCO-605883714-sistema-wifi-6-malla-para-el-hogar-tp-link-deco-x20-2-pack-_JM?searchVariation=75479435299#searchVariation=75479435299&position=5&search_layout=stack&type=item&tracking_id=d952081f-8bd9-4c60-97cf-905ee8569af7
+[9/12/22, 3:27:31 p.m.] JD Market SAS: los sistemas mesh deco M5 da hasta 867 mbps en 5ghz y 400 mbps en 2.4ghz
+[9/12/22, 3:28:36 p.m.] MC: Se los voy a recomendar al cliente te
+[9/12/22, 3:28:46 p.m.] MC: Te aviso apenas tenga respuesta
+[9/12/22, 3:28:54 p.m.] JD Market SAS: Dale con gusto
+‎[9/12/22, 3:30:21 p.m.] MC: ‎audio omitido
+‎[9/12/22, 3:30:32 p.m.] MC: ‎audio omitido
+[9/12/22, 3:33:05 p.m.] JD Market SAS: Uno lo conectas al router principal y este crea una nueva red y el otro lo pones en cualquier lugar inalambricamente que esté a cobertura del otro Deco
+[9/12/22, 3:33:19 p.m.] MC: Ok
+[9/12/22, 3:33:22 p.m.] MC: Entendido
+[23/02/23, 11:14:55 a.m.] MC: Buenos días
+[23/02/23, 11:14:56 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 en que te podemos ayudar?
+[23/02/23, 11:15:20 a.m.] MC: Tienen el modelo TP-Link ER605
+[23/02/23, 11:15:40 a.m.] MC: ‎Se eliminó este mensaje.
+[23/02/23, 11:22:12 a.m.] JD Market SAS: $424.900 IVA incluido
+[13/04/23, 12:27:15 p.m.] MC: Hola buena tarde
+[13/04/23, 12:27:27 p.m.] MC: Tiene switch base 1000
+[13/04/23, 12:27:29 p.m.] MC: Tplink
+[13/04/23, 12:55:00 p.m.] MC: De 5 puertos
+[13/04/23, 12:55:02 p.m.] MC: ?
+‎[13/04/23, 1:14:59 p.m.] JD Market SAS: ‎imagen omitida
+‎[13/04/23, 1:15:37 p.m.] MC: ‎imagen omitida
+[13/04/23, 1:16:19 p.m.] JD Market SAS: ¿Vendrían a recogerlos?
+[13/04/23, 1:37:27 p.m.] MC: No
+[13/04/23, 1:37:32 p.m.] MC: Para envío a acacias meta
+[13/04/23, 1:37:39 p.m.] MC: Me recuerda métodos de pago
+[13/04/23, 1:37:43 p.m.] MC: Factura electrónica
+[13/04/23, 2:56:47 p.m.] JD Market SAS: ¿Cuántas unidades?
+[13/04/23, 2:57:44 p.m.] MC: 2
+[13/04/23, 3:03:17 p.m.] JD Market SAS: El envío tiene un costo de $9.000
+[13/04/23, 3:03:23 p.m.] JD Market SAS: Datos cuenta BANCOLOMBIA
+
+Tipo de cuenta: Corriente
+Número de cuenta: 21932083132
+Nit: 900373012
+Titular: JD MARKET
+
+Recomendamos hacer la transferencia o consignación por un Corresponsal bancario o la App de Bancolombia. Por favor, no hacer la consignación EN UNA OFICINA DEL BANCO para evitar el cobro de comisión nacional. Al realizar una transferencia  desde otro banco puede tarda hasta 1 dia habil que se refleje el pago. Hasta que no se refleje el dinero en nuestra cuenta no se envia producto.
+[13/04/23, 3:03:41 p.m.] JD Market SAS: Total $140.800
+[24/04/23, 10:19:17 a.m.] MC: Hola buen día
+[24/04/23, 10:19:51 a.m.] MC: El envío dentro de Bogotá cuánto cuesta
+[24/04/23, 10:20:43 a.m.] JD Market SAS: Buenos días,
+[24/04/23, 10:20:48 a.m.] JD Market SAS: Depende de la localidad
+[24/04/23, 10:22:14 a.m.] MC: Suba
+[24/04/23, 10:23:11 a.m.] MC: calle 163b 50-64 int 5 apto 117
+[24/04/23, 10:37:29 a.m.] JD Market SAS: Domicilio por $13.000
+[22/06/23, 12:23:44 p.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[22/06/23, 12:23:31 p.m.] MC: Buena tarde tiene cámara tapo c210 ?
+‎[22/06/23, 12:41:23 p.m.] JD Market SAS: ‎imagen omitida
+[22/06/23, 12:41:47 p.m.] MC: Con 128
+[22/06/23, 12:41:52 p.m.] MC: Serían 2 unidades
+[22/06/23, 12:43:25 p.m.] JD Market SAS: Si estan disponible
+[22/06/23, 12:44:22 p.m.] JD Market SAS: Servicio a domicilio Confirmar (Barrio - Dirección)
+Retiro en tienda CR 31A 25A 47
+[22/06/23, 12:44:22 p.m.] MC: Me indica medios de pago y total a pagar
+[22/06/23, 12:44:33 p.m.] MC: Para envío a acacias meta
+[22/06/23, 12:44:50 p.m.] JD Market SAS: Tiene costo adicional de $12.000
+[22/06/23, 12:44:55 p.m.] JD Market SAS: Manejamos cuenta en Bancolombia
+[22/06/23, 12:45:10 p.m.] MC: Ok
+‎[22/06/23, 12:45:10 p.m.] JD Market SAS: BANCOLOMBIA JD MARKET 2023.pdf • ‎1 página ‎documento omitido
+[22/06/23, 12:45:25 p.m.] JD Market SAS: Por favor confirmar la siguiente información 
+
+Quien recibe 
+Numero de contacto 
+Dirección 
+-Ciudad
+Datos para la factura (Cedula -  Nombre- Correo)
+Comprobante
+[22/06/23, 12:45:35 p.m.] MC: Vale
+[22/06/23, 4:00:38 p.m.] MC: Quien recibe: Miguel Angel Clavijo Rojas
+Numero de contacto: 3134949598
+Dirección: calle 12 # 23-27, motel la katira, barrio dorado alto
+-Ciudad: Acacias-Meta
+Datos para la factura: envío rut
+‎[22/06/23, 4:01:04 p.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[22/06/23, 4:15:40 p.m.] JD Market SAS: Vale , muchas gracias .
+[22/06/23, 4:15:48 p.m.] JD Market SAS: Quedamos atentos al pago y asi realizar el despacho
+‎[23/06/23, 11:57:15 a.m.] MC: ‎imagen omitida
+[23/06/23, 11:57:25 a.m.] MC: Ayer se realizó el pago
+[23/06/23, 12:25:11 p.m.] JD Market SAS: Buenos tardes ya confirmo el pago
+‎[23/06/23, 2:08:00 p.m.] JD Market SAS: ‎imagen omitida
+[23/06/23, 2:09:37 p.m.] MC: Gracias
+[23/06/23, 2:10:37 p.m.] JD Market SAS: con gusto, gracias por tu compra
+[23/06/23, 2:14:32 p.m.] MC: Tienes switch hdmi?
+[23/06/23, 2:16:36 p.m.] JD Market SAS: tenemos disponibles los siguientes: https://www.jd-market.com/switch-hdmi
+‎[23/06/23, 3:17:21 p.m.] MC: ‎imagen omitida
+[23/06/23, 3:17:36 p.m.] MC: Necesito de este
+[23/06/23, 3:43:22 p.m.] JD Market SAS: buenas tardes no tenemos esa referencia
+[23/06/23, 3:43:40 p.m.] JD Market SAS: solo hay esas disponibles
+[23/06/23, 3:47:01 p.m.] MC: Vale muchas gracias
+[23/06/23, 4:01:35 p.m.] JD Market SAS: de nada con gusto
+[14/09/23, 3:55:50 p.m.] MC: Hola buena tarde
+[14/09/23, 3:55:51 p.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+‎[14/09/23, 3:56:13 p.m.] MC: ‎imagen omitida
+[14/09/23, 3:56:21 p.m.] MC: Tiene disponible este artículo
+[14/09/23, 4:03:36 p.m.] JD Market SAS: Si esta disponible
+[15/09/23, 5:51:44 a.m.] MC: Que vale el envío a acacias meta?
+[15/09/23, 8:17:29 a.m.] JD Market SAS: Buenos días, te sale por $13.000 el envio
+[15/09/23, 8:23:04 a.m.] MC: Vale
+‎[15/09/23, 8:27:33 a.m.] MC: ‎imagen omitida
+[15/09/23, 8:29:40 a.m.] MC: Tienen estos conectores?
+[15/09/23, 8:53:19 a.m.] JD Market SAS: No lo tenemos
+[15/09/23, 9:03:54 a.m.] MC: Me puede indicar medio de pago y lo que tengo que consignar con envío a acacias meta por favor
+[15/09/23, 9:04:09 a.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[15/09/23, 9:04:09 a.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+[15/09/23, 9:11:23 a.m.] JD Market SAS: Total a pagar $562.900
+[15/09/23, 9:11:27 a.m.] JD Market SAS: Datos cuenta BANCOLOMBIA
+
+Tipo de cuenta: Corriente
+Número de cuenta: 21932083132
+Nit: 900373012
+Titular: JD MARKET
+
+Recomendamos hacer la transferencia o consignación por un Corresponsal bancario o la App de Bancolombia. Por favor, no hacer la consignación EN UNA OFICINA DEL BANCO para evitar el cobro de comisión nacional. Al realizar una transferencia  desde otro banco puede tarda hasta 1 dia habil que se refleje el pago. Hasta que no se refleje el dinero en nuestra cuenta no se envia producto.
+[15/09/23, 9:11:51 a.m.] JD Market SAS: Para generar factura confirmar los siguientes datos:
+Nombre completo
+Cédula/Nit
+Dirección (No oficina principal de transportadora) 
+Ciudad
+Celular
+Correo electrónico
+Recuerda que la factura te llega por email.
+[15/09/23, 9:12:16 a.m.] JD Market SAS: también datos del envio
+[15/09/23, 9:12:35 a.m.] MC: Estos son los datos de envío
+[15/09/23, 9:12:38 a.m.] MC: Estos
+‎[15/09/23, 9:12:58 a.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+‎[15/09/23, 9:20:54 a.m.] MC: ‎imagen omitida
+[15/09/23, 9:20:57 a.m.] MC: Ya quedó
+[15/09/23, 9:39:51 a.m.] JD Market SAS: Pago confirmado
+‎[15/09/23, 9:40:11 a.m.] JD Market SAS: ‎imagen omitida
+[15/09/23, 9:55:41 a.m.] MC: ‎Llamada perdida
+[15/09/23, 9:44:05 a.m.] MC: Perfecto
+[15/09/23, 9:44:06 a.m.] MC: Bien
+[15/09/23, 9:46:08 a.m.] JD Market SAS: 🤝🏻🤝🏻 gracias por comprar con nosotros
+[15/09/23, 9:51:59 a.m.] MC: Tienes disco sólido de 500gb
+[15/09/23, 9:52:13 a.m.] MC: Soy su cliente hace más de un año, me gusta mucho su servicio
+[15/09/23, 9:52:19 a.m.] MC: Y los he recomendado muchísimo
+[15/09/23, 10:17:51 a.m.] JD Market SAS: super, con gusto
+[15/09/23, 10:17:57 a.m.] JD Market SAS: gracias
+[15/09/23, 10:18:07 a.m.] MC: Si tienen?
+‎[15/09/23, 10:18:25 a.m.] JD Market SAS: ‎imagen omitida
+[15/09/23, 10:18:38 a.m.] MC: Por favor me lo agregan a este pedido
+[15/09/23, 10:30:21 a.m.] MC: Me pide número de convenio
+[15/09/23, 10:30:28 a.m.] MC: Para hacer el pago del disco
+[15/09/23, 10:31:44 a.m.] JD Market SAS: me toca hacerte otra factura
+[15/09/23, 10:31:56 a.m.] MC: Si no hay lío
+[15/09/23, 10:32:01 a.m.] JD Market SAS: por favor puede consignar lo del disco por fa
+[15/09/23, 10:39:15 a.m.] MC: Si ya estamos en eso
+[15/09/23, 10:39:22 a.m.] MC: Estamos haciendo fila en corresponsal
+[15/09/23, 10:42:39 a.m.] JD Market SAS: gracias quedo atento
+[15/09/23, 10:44:41 a.m.] MC: Si, ya mismo
+‎[15/09/23, 10:45:58 a.m.] MC: ‎imagen omitida
+[15/09/23, 10:49:03 a.m.] MC: Ya quedó
+[15/09/23, 11:03:55 a.m.] JD Market SAS: pago confirmado
+[15/09/23, 11:12:04 a.m.] MC: Perfecto
+[15/09/23, 11:23:09 a.m.] JD Market SAS: de nada con gusto
+[6/12/23, 7:41:10 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[6/12/23, 7:41:10 a.m.] JD Market SAS: Hola, Nuestro horario de atención es de Lunes a Viernes de 8:00AM a 5:00PM y Sábados de 8:00AM 2:00PM. No tenemos atención los días domingos ni festivos.
+[6/12/23, 7:41:08 a.m.] MC: Hola buen día
+[6/12/23, 7:42:11 a.m.] MC: Necesito llevar internet en una finca desde la casa hasta la portería que queda a 150 mt lineales con vista directa despejada, que producto me puede recomendar?
+‎[6/12/23, 9:12:25 a.m.] JD Market SAS: ‎imagen omitida
+[6/12/23, 9:26:11 a.m.] MC: Que alcance tiene?
+[6/12/23, 9:45:05 a.m.] JD Market SAS: Con alta potencia de transmisión y dos antenas omnidireccionales de alta ganancia, EAP110-Outdoor ofrece cobertura inalámbrica estable en un rango de hasta 200 metros * en entornos exteriores.
+‎[6/12/23, 10:22:02 a.m.] MC: ‎audio omitido
+[6/12/23, 10:52:09 a.m.] JD Market SAS: lineales
+[6/02/24, 11:25:41 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[6/02/24, 11:25:41 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[6/02/24, 11:25:41 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[6/02/24, 11:25:41 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+‎[6/02/24, 11:25:40 a.m.] MC: ‎imagen omitida
+[6/02/24, 11:25:51 a.m.] MC: Buenos días
+[6/02/24, 11:26:07 a.m.] MC: Me puedes vender dos router de estos con envío a acacias meta
+[6/02/24, 11:27:04 a.m.] MC: Le puedo pagar por nequi?
+[6/02/24, 11:31:28 a.m.] JD Market SAS: Buen día, si disponemos, el envió tiene un valor adicional
+[6/02/24, 11:31:37 a.m.] JD Market SAS: si recibimos pagos por Nequi
+[6/02/24, 11:56:58 a.m.] MC: Me puede indicar cuánto valen los dos router y el envío por favor
+[6/02/24, 11:57:11 a.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[6/02/24, 11:57:11 a.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+‎[6/02/24, 12:02:38 p.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[6/02/24, 12:02:46 p.m.] MC: Factura electrónica con este rut por favor
+[6/02/24, 12:29:35 p.m.] JD Market SAS: Ya confirmo el total
+[6/02/24, 12:32:42 p.m.] JD Market SAS: 2 und Router $449.800 + Flete $12.000 *TOTAL  $461.800*
+[6/02/24, 12:32:54 p.m.] MC: Listo
+‎[6/02/24, 12:32:59 p.m.] JD Market SAS: 21_11 Certificacion bancaria bancolombia.pdf • ‎1 página ‎documento omitido
+[6/02/24, 12:33:01 p.m.] MC: Número de nequi por favor
+[6/02/24, 12:33:29 p.m.] JD Market SAS: Para confirmación de pedido se requiere la siguiente información 
+
+Quien recibe 
+Numero de contacto 
+Dirección 
+Ciudad
+Medio de pago : Transferencia
+Comprobante
+‎[6/02/24, 12:34:20 p.m.] MC: ‎audio omitido
+[6/02/24, 12:58:12 p.m.] JD Market SAS: Desde Nequi eliges enviar a otro banco y eliges Bancolombia
+[6/02/24, 12:58:16 p.m.] JD Market SAS: El pago es inmediato
+[6/02/24, 12:58:22 p.m.] MC: Voy a intentar
+[6/02/24, 12:58:27 p.m.] JD Market SAS: Quedamos atentos
+[6/02/24, 12:58:48 p.m.] MC: Vale
+‎[6/02/24, 1:42:21 p.m.] MC: ‎imagen omitida
+[6/02/24, 1:42:51 p.m.] MC: Ya quedó hecho el pago
+[6/02/24, 1:43:12 p.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[6/02/24, 1:43:12 p.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+‎[6/02/24, 1:43:13 p.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[6/02/24, 2:37:49 p.m.] JD Market SAS: datos del despacho
+[6/02/24, 2:38:02 p.m.] MC: Estos
+[6/02/24, 2:38:06 p.m.] MC: Estos
+[6/02/24, 2:38:12 p.m.] MC: Así es
+[6/02/24, 2:39:03 p.m.] JD Market SAS: gracias
+[6/02/24, 2:39:12 p.m.] JD Market SAS: ya valido el pago
+[6/02/24, 2:51:24 p.m.] JD Market SAS: Pago confirmado
+[6/02/24, 2:51:45 p.m.] MC: Vale
+‎[6/02/24, 2:51:59 p.m.] JD Market SAS: ‎imagen omitida
+[6/02/24, 2:52:38 p.m.] MC: Confirmado
+[12/02/24, 12:12:24 p.m.] MC: Buenas tardes
+[12/02/24, 12:20:56 p.m.] MC: Tienes switch base 1.000 tp link
+[12/02/24, 12:21:40 p.m.] MC: ?
+[12/02/24, 12:49:35 p.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[12/02/24, 12:50:50 p.m.] JD Market SAS: Si tenemos disponible
+‎[12/02/24, 12:50:55 p.m.] JD Market SAS: ‎imagen omitida
+[12/02/24, 12:51:06 p.m.] JD Market SAS: De 8 puertos en adelante
+[27/02/24, 12:17:37 p.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[27/02/24, 12:17:36 p.m.] MC: Hola buena tarde
+[27/02/24, 12:17:48 p.m.] MC: Me puede cotizar los siguientes equipos por favor
+[27/02/24, 12:19:27 p.m.] MC: Tp- link archer ax-72
+Tp-link EAP 225
+2 undidades Tp-Pharos Cpe 510
+Tp-link archer ax-55
+[27/02/24, 12:49:12 p.m.] JD Market SAS: Tp-link EAP 225  ¿Exterior o interior?
+[27/02/24, 12:50:09 p.m.] MC: Exterior
+[27/02/24, 12:50:27 p.m.] JD Market SAS: En un momento te comparto la cotización formal
+[27/02/24, 12:52:02 p.m.] JD Market SAS: Me confirmas por favor el NIT
+[27/02/24, 12:53:01 p.m.] MC: El cliente aún ko me ha enviado rut para cotización
+[27/02/24, 12:53:10 p.m.] MC: Por favor cotizar a nombre de miguel clavijo
+[27/02/24, 12:53:29 p.m.] MC: Te confirmo más tarde a nombre de quien la factura electrónica
+[27/02/24, 12:53:40 p.m.] MC: Cc: 1122125591
+[27/02/24, 12:53:52 p.m.] MC: Ustedes venden UPS de 2kva
+[27/02/24, 12:53:54 p.m.] MC: ?
+[27/02/24, 12:54:50 p.m.] JD Market SAS: Si tenemos disponible
+‎[27/02/24, 12:54:52 p.m.] JD Market SAS: ‎imagen omitida
+[27/02/24, 12:54:58 p.m.] JD Market SAS: Muchas gracias
+[27/02/24, 12:59:48 p.m.] MC: Está no incluirla por favor
+‎[27/02/24, 1:04:32 p.m.] JD Market SAS: CTZ. 2314.pdf • ‎1 página ‎documento omitido
+[27/02/24, 1:12:15 p.m.] MC: Por favor, agregar un ax72 y un Cpe510
+[27/02/24, 1:12:17 p.m.] MC: Gracias
+[27/02/24, 1:13:42 p.m.] MC: Me puedo comunicar a este número telefónicamente?
+[27/02/24, 1:15:26 p.m.] JD Market SAS: déjame en unos minutos te adjunto la nueva cotización
+[27/02/24, 1:15:37 p.m.] MC: Vale
+‎[27/02/24, 1:16:18 p.m.] MC: ‎audio omitido
+[27/02/24, 1:36:58 p.m.] JD Market SAS: Claro que si, en un momento te comparto la cotización actualizada
+[27/02/24, 1:37:14 p.m.] MC: Vale
+[27/02/24, 1:37:15 p.m.] JD Market SAS: Me indicas por favor si te incluyo el valor del flete
+[27/02/24, 1:37:25 p.m.] MC: Si por favor
+[27/02/24, 1:37:28 p.m.] MC: A acacias meta
+[27/02/24, 1:37:42 p.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[27/02/24, 1:37:42 p.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+[27/02/24, 1:37:47 p.m.] MC: Esta dirección
+[27/02/24, 1:38:12 p.m.] MC: Venden cable utp blindado cat 5e o 6 para exterior?
+[27/02/24, 1:40:22 p.m.] JD Market SAS: ¿Cuantos metros requieres?
+[27/02/24, 1:41:33 p.m.] MC: 100 mt
+[27/02/24, 1:58:39 p.m.] JD Market SAS: Ya confirmo si aun nos queda disponible
+[27/02/24, 2:01:03 p.m.] JD Market SAS: Se encuentra agotado.
+[27/02/24, 2:02:21 p.m.] MC: Vale
+‎[27/02/24, 2:05:19 p.m.] JD Market SAS: CTZ. 2314..pdf • ‎1 página ‎documento omitido
+[27/02/24, 2:14:22 p.m.] MC: Les puedo hacer el pago, me hacen el envío, y apenas tenga la información de la factura electrónica me la hacen?
+[27/02/24, 2:54:50 p.m.] JD Market SAS: si señor
+‎[27/02/24, 2:55:01 p.m.] JD Market SAS: 21_11 Certificacion bancaria bancolombia.pdf • ‎1 página ‎documento omitido
+‎[27/02/24, 4:10:23 p.m.] MC: ‎imagen omitida
+‎[27/02/24, 4:10:52 p.m.] MC: ‎audio omitido
+[28/02/24, 9:22:05 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[28/02/24, 9:23:00 a.m.] JD Market SAS: Sería un producto por ese valor
+[28/02/24, 7:52:49 a.m.] JD Market SAS: Buenos días Sr. Miguel,
+[28/02/24, 7:52:57 a.m.] MC: Buenos días
+[28/02/24, 7:52:59 a.m.] JD Market SAS: Apenas tengamos la guia la compartimos por este medio.
+‎[28/02/24, 7:57:20 a.m.] MC: ‎imagen omitida
+‎[28/02/24, 7:57:37 a.m.] MC: ‎audio omitido
+[28/02/24, 9:24:44 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[28/02/24, 9:25:00 a.m.] JD Market SAS: En este caso seria ofrecerte un producto por ese valor
+‎[28/02/24, 9:43:13 a.m.] MC: ‎audio omitido
+[28/02/24, 9:48:05 a.m.] JD Market SAS: Ahh si
+[28/02/24, 9:48:07 a.m.] JD Market SAS: Claro que si
+[28/02/24, 9:48:14 a.m.] MC: Vale
+[28/02/24, 9:48:26 a.m.] MC: Cuánto consignó entonces?
+[28/02/24, 9:48:31 a.m.] JD Market SAS: Excedente de 73.300
+[28/02/24, 9:48:39 a.m.] MC: Listo
+[28/02/24, 9:50:51 a.m.] JD Market SAS: Quedamos atentos para continuar con el despacho el dia de hoy.
+‎[28/02/24, 9:51:23 a.m.] MC: ‎imagen omitida
+[28/02/24, 9:51:34 a.m.] MC: Ya quedó
+[28/02/24, 10:01:28 a.m.] JD Market SAS: Muchas gracias
+‎[28/02/24, 11:55:54 a.m.] JD Market SAS: ‎imagen omitida
+[28/02/24, 11:57:16 a.m.] MC: Todo está bien
+[28/02/24, 11:57:55 a.m.] JD Market SAS: Muhcas gracias por la confirmación
+[1/03/24, 11:41:48 a.m.] MC: Hola buen día
+[1/03/24, 11:41:58 a.m.] MC: Ayer llegaron los equipos, todo bien
+‎[1/03/24, 11:42:09 a.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[1/03/24, 11:42:20 a.m.] MC: Me pueden generar factura con este rut por favor
+[1/03/24, 11:47:33 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[1/03/24, 12:00:38 p.m.] JD Market SAS: La factura se realizó tal cual a la cotización, en este caso será anular la factura y hacer nueva con los datos de empresa.
+[1/03/24, 12:00:57 p.m.] MC: Si por favor
+‎[1/03/24, 12:43:04 p.m.] JD Market SAS: FVE 446473.pdf • ‎2 páginas ‎documento omitido
+[1/03/24, 1:23:03 p.m.] MC: Gracias
+[1/03/24, 1:31:47 p.m.] JD Market SAS: con gusto
+[18/04/24, 10:57:48 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[18/04/24, 10:57:48 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[18/04/24, 10:57:48 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[18/04/24, 10:57:46 a.m.] MC: Hola buen día
+‎[18/04/24, 11:05:52 a.m.] MC: ‎imagen omitida
+‎[18/04/24, 11:05:53 a.m.] MC: ‎imagen omitida
+[18/04/24, 11:06:04 a.m.] MC: Me puede confirmar disponibilidad y precio de estos equipos por favor
+[18/04/24, 11:15:05 a.m.] MC: Hola
+[18/04/24, 11:20:28 a.m.] JD Market SAS: ¿Cuántas unidades necesitas de cada uno?
+[18/04/24, 11:21:11 a.m.] MC: Una de cada uno
+[18/04/24, 11:38:05 a.m.] JD Market SAS: Voy a validar existencia
+[18/04/24, 11:39:00 a.m.] MC: Ok
+[18/04/24, 11:51:04 a.m.] JD Market SAS: Disponible
+‎[18/04/24, 11:51:22 a.m.] JD Market SAS: ‎imagen omitida
+‎[18/04/24, 11:51:39 a.m.] JD Market SAS: ‎imagen omitida
+[18/04/24, 12:46:32 p.m.] MC: Vale regáleme datos para hacer transferencia
+[18/04/24, 12:46:35 p.m.] MC: Por favor
+‎[18/04/24, 12:46:43 p.m.] MC: Rut Octubre 2MJ.pdf • ‎4 páginas ‎documento omitido
+[18/04/24, 12:46:48 p.m.] MC: Factura a este rut
+[18/04/24, 1:09:39 p.m.] JD Market SAS: ¿Pasas a recoger el producto?
+[18/04/24, 1:09:52 p.m.] MC: No, me lo envían por favor
+[18/04/24, 1:10:10 p.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[18/04/24, 1:10:10 p.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+[18/04/24, 1:10:11 p.m.] MC: Esta dirección
+[18/04/24, 1:12:18 p.m.] JD Market SAS: el envió tiene un costo adicional
+[18/04/24, 1:12:37 p.m.] MC: Cuánto vale?
+[18/04/24, 1:19:00 p.m.] JD Market SAS: tiene un costo adicional de $13.000
+[18/04/24, 1:19:09 p.m.] MC: Listo
+[18/04/24, 1:19:28 p.m.] MC: Cuánto es entonces para hacerles el pago
+[18/04/24, 1:21:27 p.m.] JD Market SAS: el costo de las dos referencias da un total a pagar de $597.800
+‎[18/04/24, 1:21:36 p.m.] JD Market SAS: 21_11 Certificacion bancaria bancolombia.pdf • ‎1 página ‎documento omitido
+‎[18/04/24, 1:25:14 p.m.] MC: ‎imagen omitida
+[18/04/24, 1:40:17 p.m.] JD Market SAS: ya valido
+[18/04/24, 1:40:29 p.m.] JD Market SAS: Para confirmacion de pedido se requiere la siguiente información 
+
+Quien recibe 
+Numero de contacto 
+Direccion 
+Ciudad
+Datos para la factura (Cedula -  Nombre- Correo)
+Medio de pago : Efectivo Transferencia
+Comprobante
+[18/04/24, 1:40:46 p.m.] MC: Ya te envié todos los datos requeridos
+[18/04/24, 1:40:58 p.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[18/04/24, 1:40:58 p.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+‎[18/04/24, 1:40:58 p.m.] MC: ‎imagen omitida
+‎[18/04/24, 2:06:10 p.m.] JD Market SAS: ‎imagen omitida
+[18/04/24, 2:06:46 p.m.] MC: Así es
+[18/04/24, 2:06:48 p.m.] MC: Muchas gracias
+[18/04/24, 2:07:08 p.m.] JD Market SAS: tus productos se envían el dia de hoy
+[18/04/24, 2:25:19 p.m.] MC: Muchas gracias
+[18/04/24, 2:39:51 p.m.] JD Market SAS: Con gusto
+[19/04/24, 9:25:26 a.m.] MC: Hola buen día
+[19/04/24, 9:25:45 a.m.] MC: Me puede compartir la factura por favor
+‎[19/04/24, 10:30:18 a.m.] JD Market SAS: 8.pdf • ‎1 página ‎documento omitido
+[19/04/24, 10:30:52 a.m.] MC: Te había enviado este rut para la factura
+‎[19/04/24, 10:31:13 a.m.] MC: ‎imagen omitida
+‎[19/04/24, 10:31:33 a.m.] MC: ‎imagen omitida
+[19/04/24, 10:42:29 a.m.] JD Market SAS: disculpa, ya realizamos el cambio de factura
+[19/04/24, 10:43:35 a.m.] MC: Gracias
+[19/04/24, 10:43:43 a.m.] MC: Me envían una copia por este medio por favor
+‎[19/04/24, 11:07:42 a.m.] JD Market SAS: 9.pdf • ‎1 página ‎documento omitido
+[19/04/24, 11:14:26 a.m.] MC: Gracias
+[19/04/24, 11:16:52 a.m.] JD Market SAS: con gusto ‎<Se editó este mensaje.>
+[27/05/24, 4:02:57 p.m.] MC: Buena tarde
+[27/05/24, 4:03:16 p.m.] MC: Tiene rapture tp link Ax72?
+‎[27/05/24, 4:11:24 p.m.] JD Market SAS: ‎imagen omitida
+[27/05/24, 4:11:42 p.m.] JD Market SAS: si disponible
+[27/05/24, 4:11:45 p.m.] MC: Vale
+[27/05/24, 4:11:59 p.m.] MC: Medios de pago?
+[27/05/24, 4:32:43 p.m.] JD Market SAS: ¿Donde estas ubicado'
+[27/05/24, 4:35:33 p.m.] MC: Acacias meta
+[27/05/24, 4:57:26 p.m.] MC: Con este rut la factura por favor
+‎[27/05/24, 4:57:27 p.m.] MC: RUT 2MJ 250124.pdf • ‎4 páginas ‎documento omitido
+[27/05/24, 4:57:41 p.m.] MC: Calle 12 # 23-79, motel la Katira, barrio el dorado alto, Acacias meta
+[27/05/24, 4:57:41 p.m.] MC: Miguel Ángel 
+Clavijo rojas 
+1122125591
+Miguelclavijoingcivil@gmail.com
+3134949598
+[28/05/24, 7:55:07 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[28/05/24, 7:55:18 a.m.] JD Market SAS: Claro que si
+‎[28/05/24, 7:55:57 a.m.] JD Market SAS: CERTIFICADO BANCARIO .pdf • ‎1 página ‎documento omitido
+[28/05/24, 7:57:21 a.m.] MC: Gracias
+[28/05/24, 8:00:28 a.m.] JD Market SAS: Con gusto.
+‎[28/05/24, 9:38:12 a.m.] MC: ‎imagen omitida
+[28/05/24, 9:38:16 a.m.] MC: Listo el pago
+[28/05/24, 10:11:10 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+‎[4/06/24, 9:24:28 a.m.] MC: ‎audio omitido
+[4/06/24, 9:24:34 a.m.] MC: No me enviaron el equipo?
+[4/06/24, 9:24:37 a.m.] MC: Lo estoy esperando?
+[4/06/24, 9:24:43 a.m.] MC: Este
+[4/06/24, 9:32:09 a.m.] JD Market SAS: Hola buenos dias, permíteme ya valido
+[4/06/24, 9:32:30 a.m.] MC: Dirección
+[4/06/24, 9:32:35 a.m.] MC: Datos
+[4/06/24, 9:37:42 a.m.] JD Market SAS: Disculpa, ya validamos y tuvimos inconvenientes con el WhatsApp, pedimos disculpas por el inconveniente, tu producto será enviado el día de hoy
+[4/06/24, 9:40:27 a.m.] MC: Vale gracias
+‎[4/06/24, 9:51:19 a.m.] JD Market SAS: ‎imagen omitida
+[4/06/24, 12:51:02 p.m.] MC: Así es
+[4/06/24, 1:02:19 p.m.] JD Market SAS: tu producto se envía el día de hoy
+[4/06/24, 1:02:26 p.m.] MC: Vale gracias
+[4/06/24, 1:02:39 p.m.] JD Market SAS: con todo gusto
+[12/06/24, 11:03:53 a.m.] MC: Buen día
+‎[12/06/24, 11:04:04 a.m.] MC: ‎imagen omitida
+[12/06/24, 11:04:11 a.m.] MC: Tiene este equipo disponible?
+[12/06/24, 11:05:05 a.m.] JD Market SAS: buen dia, en el momento se encuentra agotado
+[12/06/24, 11:05:29 a.m.] MC: Saben cuando vuelve a llegar?
+[12/06/24, 11:06:32 a.m.] JD Market SAS: pueden llegar la próxima semana
+[12/06/24, 11:06:58 a.m.] MC: Les encargo avisarme por favor
+[12/06/24, 11:20:46 a.m.] JD Market SAS: con todo gusto
+[3/07/24, 4:08:03 p.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[3/07/24, 4:08:03 p.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[3/07/24, 4:08:02 p.m.] MC: Hola buena tarde
+[3/07/24, 4:08:16 p.m.] MC: Tienen disponible este equipo?
+‎[3/07/24, 4:08:21 p.m.] MC: ‎imagen omitida
+[3/07/24, 4:14:25 p.m.] JD Market SAS: agotado
+[3/07/24, 4:16:03 p.m.] MC: Saben cuando llega?
+[3/07/24, 4:51:43 p.m.] JD Market SAS: no tenemos dato exacto, tan pronto lleguen se publican de inmediato
+[3/07/24, 4:52:08 p.m.] MC: Ok
+[4/07/24, 7:16:55 p.m.] MC: Buena noche, me confirman existencia de este producto?
+[5/07/24, 7:58:56 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[5/07/24, 7:59:17 a.m.] JD Market SAS: Disculpa, me puedes enviar de nuevo la imagen o referencia del producto?
+‎[5/07/24, 8:02:46 a.m.] MC: ‎imagen omitida
+[5/07/24, 8:02:49 a.m.] MC: Buen día
+[5/07/24, 8:02:50 a.m.] MC: Este
+[8/07/24, 8:29:55 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[8/07/24, 8:30:07 a.m.] MC: Hola
+[8/07/24, 8:30:10 a.m.] JD Market SAS: Estamos validando disponibilidad en un momento te confirmamos.
+[8/07/24, 8:30:14 a.m.] MC: Vale
+[8/07/24, 8:36:14 a.m.] JD Market SAS: Me confirmar que si tenemos disponible, me indicas por favor cuantas unidades requieres
+[9/07/24, 4:56:51 p.m.] MC: Hola, necesito una unidad
+[9/07/24, 4:57:02 p.m.] MC: Puedo pagar por nequi?
+[10/07/24, 8:04:24 a.m.] JD Market SAS: ¡Hola! Bienvenido a JD MARKET
+[10/07/24, 8:06:21 a.m.] JD Market SAS: Claro que si
+[10/07/24, 8:06:30 a.m.] JD Market SAS: de nequi a bancolombia
+[10/07/24, 8:06:34 a.m.] JD Market SAS: Datos cuenta BANCOLOMBIA
+
+Tipo de cuenta: Corriente
+Número de cuenta: 21932083132
+Nit: 900373012
+Titular: JD MARKET
+
+Recomendamos hacer la transferencia o consignación por un Corresponsal bancario o la App de Bancolombia. Por favor, no hacer la consignación EN UNA OFICINA DEL BANCO para evitar el cobro de comisión nacional. Al realizar una transferencia  desde otro banco puede tarda hasta 1 dia habil que se refleje el pago. Hasta que no se refleje el dinero en nuestra cuenta no se envia producto.
+‎[10/07/24, 11:29:28 a.m.] MC: ‎imagen omitida
+‎[10/07/24, 11:30:15 a.m.] MC: RUT MIGUEL CLAVIJO .pdf • ‎2 páginas ‎documento omitido
+[10/07/24, 11:30:47 a.m.] MC: Info de envío:
+Dirección: calle 12 # 23-27, motel la katira, barrio el retorno, acacias - meta
+Nombre: Miguel Ángel clavijo Rojas
+Cc: 1122125591
+Cel: 3134949598
+[10/07/24, 11:40:20 a.m.] MC: Aún no llega el AX72?
+[10/07/24, 1:10:30 p.m.] JD Market SAS: El envio tiene un costo de $12.000
+[10/07/24, 1:10:43 p.m.] MC: Si aquí lo pago
+[10/07/24, 1:10:48 p.m.] MC: Contra entrega
+[10/07/24, 1:11:04 p.m.] JD Market SAS: No manejamos envios al cobro
+[10/07/24, 1:12:14 p.m.] MC: Y por qué no me dicen antes de pagar y lo suman al total del artículo?
+[10/07/24, 1:27:43 p.m.] JD Market SAS: disculpa, no preguntamos
+‎[10/07/24, 1:51:29 p.m.] MC: ‎imagen omitida
+[10/07/24, 1:58:02 p.m.] JD Market SAS: ‎Eliminaste este mensaje.
+[10/07/24, 1:58:28 p.m.] MC: No, tuve un error en el barrio
+[10/07/24, 1:58:32 p.m.] MC: Es barrio el dorado alto
+[10/07/24, 1:58:47 p.m.] MC: Info de envío:
+Dirección: calle 12 # 23-27, motel la katira, barrio dorado alto, acacias - meta
+Nombre: Miguel Ángel clavijo Rojas
+Cc: 1122125591
+Cel: 3134949598
+[10/07/24, 1:59:34 p.m.] JD Market SAS: ya corrijo
+[10/07/24, 1:59:42 p.m.] MC: Gracias
+‎[10/07/24, 2:03:34 p.m.] JD Market SAS: ‎imagen omitida
+[10/07/24, 2:19:07 p.m.] MC: Así es
+[10/07/24, 2:19:10 p.m.] MC: Correcto
+[10/07/24, 2:20:27 p.m.] JD Market SAS: Se envia el dia de hoy
+[10/07/24, 2:23:29 p.m.] MC: Gracias
+[10/07/24, 2:23:32 p.m.] MC: Muy amable
+[10/07/24, 2:24:36 p.m.] JD Market SAS: a ti
+[10/07/24, 2:24:40 p.m.] JD Market SAS: Con todo gusto
+[26/07/24, 2:38:41 p.m.] MC: Hola buen dia
+[26/07/24, 2:38:56 p.m.] MC: Ya llegaron router tp-link ax-72? ‎<Se editó este mensaje.>
+‎[26/07/24, 2:40:15 p.m.] JD Market SAS: ‎imagen omitida
+[5/11/24, 11:45:34 a.m.] MC: Hola buena día tiene switch de 16 puertos tp-link
+[5/11/24, 11:45:34 a.m.] JD Market SAS: 👩🏻💻 Hola, Bienvenido a JD MARKET S.A.S. 🎮🖥️🎧 ¿En que te podemos colaborar?
+[5/11/24, 11:45:35 a.m.] MC: ?
+‎[5/11/24, 11:50:34 a.m.] JD Market SAS: ‎imagen omitida
+[5/11/24, 11:51:00 a.m.] MC: Base 1000
+[5/11/24, 11:55:52 a.m.] JD Market SAS: gigabit?
+[5/11/24, 11:55:58 a.m.] MC: Así es
+‎[5/11/24, 11:56:24 a.m.] JD Market SAS: ‎imagen omitida
+[5/11/24, 11:56:37 a.m.] MC: Vale
+[5/11/24, 11:59:26 a.m.] JD Market SAS: Quedamos atentos
